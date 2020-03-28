@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a8510e5-98ac-43e5-918e-a6262b662a61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/Changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/scalable-form-editor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/scalable_form_antd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/scalable_form_antd_mobile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/scalable_form_core.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/下一步.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/介绍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/使用Node.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/使用docker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/使用可视化编辑器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/使用部署站点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/关于.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/移动端渲染.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zh/第一个表单.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +48,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zh" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zh" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -52,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585390683408</updated>
-      <workItem from="1585390684663" duration="1800000" />
+      <workItem from="1585390684663" duration="9137000" />
     </task>
     <servers />
   </component>

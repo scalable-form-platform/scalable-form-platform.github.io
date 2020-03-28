@@ -1,14 +1,13 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+# Scalable Form Platform
+![npm](https://img.shields.io/npm/v/scalable-form-antd?style=flat)
 
-# docsify <small>3.5</small>
+> A solution for building dynamic web forms with visual editor
 
-> A magical documentation site generator.
+- Enterprise-class Solutions for web form
+- High-quality react components to render web forms from JSON schema
+- Whole package of development tools
+- Server support and independently deployable sites
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quickstart)
+[GitHub](https://github.com/alibaba/scalable-form-platform)
