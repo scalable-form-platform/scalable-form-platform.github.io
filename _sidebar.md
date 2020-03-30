@@ -4,8 +4,8 @@
     - [第一个表单](zh/第一个表单.md)
     - [移动端渲染](zh/移动端渲染.md)
     - [使用可视化编辑器](zh/使用可视化编辑器.md)
-    - [使用部署站点](zh/使用部署站点.md)
-    - [下一步+兼容性](zh/下一步.md)
+    - [部署scalable form站点](zh/使用部署站点.md)
+    - [下一步](zh/下一步.md)
 
 - API文档
   - [Scalable Form Core](zh/scalable_form_core.md)

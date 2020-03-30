@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0a8510e5-98ac-43e5-918e-a6262b662a61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh/scalable-form-editor.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/scalable-form-editor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh/scalable_form_antd.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/scalable_form_antd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh/scalable_form_antd_mobile.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/scalable_form_antd_mobile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh/scalable_form_core.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/scalable_form_core.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh/使用可视化编辑器.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/使用可视化编辑器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh/使用部署站点.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/使用部署站点.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +57,11 @@
       <updated>1585390683408</updated>
       <workItem from="1585390684663" duration="9328000" />
       <workItem from="1585402933292" duration="2548000" />
-      <workItem from="1585407210194" duration="35000" />
+      <workItem from="1585407210194" duration="278000" />
+      <workItem from="1585452110722" duration="8000" />
+      <workItem from="1585534655600" duration="85000" />
+      <workItem from="1585573084405" duration="615000" />
+      <workItem from="1585574102329" duration="6149000" />
     </task>
     <servers />
   </component>
